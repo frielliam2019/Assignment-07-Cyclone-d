@@ -1,0 +1,3 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=64559:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/LiamFriel/IdeaProjects/Cyclone'd/out/production/Cyclone'd Main
+The total distance of Hurricane Gloria from the coast of Africa to the coast of the east coast is 7292.1986200796155
+Process finished with exit code 0
